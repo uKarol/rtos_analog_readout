@@ -1,0 +1,6 @@
+#ignored directories
+
+Debug/
+Drivers/
+Binaries/
+Middlewares/
